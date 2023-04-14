@@ -1,0 +1,23 @@
+.first{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: yellow;
+    border-style: solid;
+}
+
+.contain-1{
+    width: 200px;
+    text-align: center;
+}
+
+.contain-2{
+    width: 200px;
+    text-align: center;
+}
+
+/* body {
+    background-color: blue;
+} */
