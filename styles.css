@@ -1,3 +1,7 @@
+*{
+    font-family: "Hanken Grotesk",sans-serif ;
+}
+
 .first{
     display: flex;
     position: absolute;
